@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EimySenrioth/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Mis lenguajes" />
-  <img src="https://raw.githubusercontent.com/EimySenrioth/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Mis lenguajes" />
+  <img src="https://raw.githubusercontent.com/EimySenrioth/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/EimySenrioth/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </p>
