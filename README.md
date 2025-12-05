@@ -4,12 +4,6 @@
 - **Frameworks y Librerías:** React
 - **Herramientas de Desarrollo:** Visual Studio Code, Git
 
-## 🚀 Habilidades Técnicas
-
-<p align="center">
-  <img src="https://github-readme-stats-ashutosh007.vercel.app/api/top-langs?username=EimySenrioth&layout=donut&theme=dracula&hide_border=true&langs_count=8" height="200" alt="Top Languages" />
-</p>
-
 ### Lenguajes Principales
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
