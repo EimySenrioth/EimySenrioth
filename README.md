@@ -14,4 +14,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EimySenrioth/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Mis lenguajes" />
+  <img src="https://raw.githubusercontent.com/EimySenrioth/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Mis lenguajes" />
+</p>
