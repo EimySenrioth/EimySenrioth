@@ -7,7 +7,7 @@
 ## 🚀 Habilidades Técnicas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EimySenrioth&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  <img src="https://github-readme-stats-ashutosh007.vercel.app/api/top-langs?username=EimySenrioth&layout=donut&theme=dracula&hide_border=true&langs_count=8" height="200" alt="Top Languages" />
 </p>
 
 ### Lenguajes Principales
@@ -20,10 +20,4 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### Frameworks & Tools
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
